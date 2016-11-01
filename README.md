@@ -1,2 +1,0 @@
-# juanjo
-Estructura de datos
